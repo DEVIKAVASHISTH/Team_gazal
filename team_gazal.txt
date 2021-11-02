@@ -1,0 +1,120 @@
+<html>
+<Style>
+div{
+border: 2px solid black;
+}
+div.header{
+Background-color: Black;
+font-family: "Serif";
+font-size:35px;
+}
+div.footer{
+height: 320px;
+width: 1489px;
+Background-color:black;
+font-family: "Times New Roman", Times, serif;
+Font-size:20px;
+}
+div.navbar{
+Background-color:SeaShell;
+}
+div.msg{
+height: 345px;
+width: 395px;
+background-color: white;
+float:left;
+Color: Indigo;
+font-style:vendana;
+}
+
+div.ser{
+height: 275px;
+width: 180px;
+background-color: white;
+float:left;
+Color: Indigo;
+font-style:vendana;
+}
+
+
+a:link{text-transform: uppercase; }
+</Style>
+<body>
+<div class="header" >
+<img src="thumbnail.png "
+width="400" height="350" style= float:left;>
+<h2 style="color:SeaShell"><font face = "Serif"><center>EDUPEDIA</font></center> </h2>
+<h3 style="color:HoneyDew";font-size:16px><font face = "Cursive"><center>Opportunities are always everywhere, learn to see and create them.</font></center> </h3>
+</div>
+<div class="navbar" >
+<H5>
+<Center>
+<a href="SI.html">Sign in</a>&nbsp &nbsp
+<a href="SU.html">Sign up</a>&nbsp &nbsp
+<a href="F.html">feedback</a>&nbsp &nbsp
+</Center>
+</H5>
+</div>
+<div class="msg">
+<Center>
+<H4 style="color:midnightblue><u><font face = "Times New Roman"> WHY WE?</u></h4></font></center>
+<Center><Img src="123.png " width="200"; height="200";></center>
+<P style=font-size:10px "font-color:red">
+EDUPEDIA: WE DEFINE EDUCATION<br>
+Edupedia is a digital encyclopedia/glossary/dictionary hybrid that allows its user to find well-researched information on any education-related topic. Some entries are only a few sentences and 
+define basic educational terms.Edupedia is continuously updated, and reinvents itself as 
+the field evolves, serving as an authoritative resource for knowledge and information 
+about teaching and learning.
+<Br>
+</Font></P>
+</div>
+<div class="ser">
+<center>
+<img src="55555.jpg" alt="" " width="100"; height="150"; />
+<p><a href="S.html"><em>Scholarship</em></a></p>
+</center>
+</div>
+
+
+<div class="ser">
+<center>
+<img src="22222.jpg" alt="" " width="100"; height="150";/>
+<p><a href="H.html"><em>Hack-a-thon</em></a></p>
+</center>
+</div>
+
+<div class="ser">
+<center>
+<img src="88888.png" alt="" " width="100"; height="150";/>
+<p><a href="I.html"><em>Internship</em></a></p>
+
+</center>
+</div>
+
+<div class="ser">
+<center>
+<img src="44444.jpg" alt=""" width="100"; height="150"; />
+<p><a href="E.html"><em>Event/Competition</em></a></p>
+</center>
+</div>
+
+
+<div class="ser">
+<center>
+<img src="33333.jpg" alt="" " width="100"; height="150";/>
+<p><a href="C.html"><em>courses</em></a></p>
+</center>
+</div>
+
+<div class="ser">
+<center>
+<img src="666666.jpg" alt="" " width="100"; height="150";/>
+<p><a href="W.html"><em>Webinar/Workshops</em></a></p>
+</center>
+</div>
+							
+<div class="footer" style="color:mistyrose">
+<U><h6>CONTACT US: </U> Dwarka Sector 2, New Delhi-110045  Phone: 000000000</h6>
+<div>
+</Body>
+</html>
